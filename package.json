@@ -1,0 +1,16 @@
+{
+  "name": "auto-eslint",
+  "main": "./lib/auto-eslint",
+  "version": "0.0.0",
+  "description": "disable eslint when local eslint is not installed",
+  "keywords": [],
+  "repository": "https://github.com/xream/atom-auto-eslint",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs-plus": "^3.0.0",
+    "lodash": "^4.17.4"
+  }
+}
